@@ -16,7 +16,8 @@ Tested on Vivado 2024.2
 C3C Kyle Litman helped me understand how to do the entity diagram. He helped me understand how the port mapping 
 translates to the entity diagram.  
 
-![alt text](<Image (4)-1.jpg>)
+<img width="676" alt="{1FA31F8E-82BF-4B8C-89B8-D5E007CB5B46}" src="https://github.com/user-attachments/assets/ea721279-4c3f-4cd6-8596-3523fd0675ab" />
+
 
 
 ![alt text]({FC38CC8C-26A9-441C-8FF3-C5DFAD8CF154}-1.png)
