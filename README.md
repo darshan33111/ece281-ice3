@@ -2,6 +2,7 @@
 
 This is a **template** repository.
 
+
 [ICE 3 instructions](https://usafa-ece.github.io/ece281-book/ICE/ICE3.html)
 
 Targeted toward Digilent Basys3. Make sure to install the [board files](https://github.com/Xilinx/XilinxBoardStore/tree/2018.2/boards/Digilent/basys3).
@@ -9,6 +10,15 @@ Targeted toward Digilent Basys3. Make sure to install the [board files](https://
 Tested on Vivado 2024.2
 
 ---
+
+## Documentation: 
+C3C Kyle Litman helped me understand how to do the entity diagram. He helped me understand how the port mapping 
+translates to the entity diagram.  
+
+![alt text](<Image (4)-1.jpg>)
+
+
+![alt text]({FC38CC8C-26A9-441C-8FF3-C5DFAD8CF154}-1.png)
 
 ## GitHub Actions Testbench
 
