@@ -8,6 +8,7 @@ This is a **template** repository.
 Targeted toward Digilent Basys3. Make sure to install the [board files](https://github.com/Xilinx/XilinxBoardStore/tree/2018.2/boards/Digilent/basys3).
 
 Tested on Vivado 2024.2
+<img width="960" alt="{FC38CC8C-26A9-441C-8FF3-C5DFAD8CF154}" src="https://github.com/user-attachments/assets/bd1f726b-f7fb-41b8-b94b-27e4d7d3e474" />
 
 ---
 
